@@ -20,13 +20,21 @@ Open **http://localhost:3000**
 
 | Role    | Email               | Password  | Description               |
 |---------|---------------------|-----------|---------------------------|
-| Patient | Kiran@demo.com      | demo1234  | Has existing appointments |
+| Patient | kiran@demo.com      | demo1234  | Has existing appointments |
 | Patient | riya@demo.com       | demo1234  | Another patient account   |
 | Doctor  | Ande@demo.com      | demo1234  | Cardiologist, approved    |
 | Doctor  | rahul@demo.com      | demo1234  | Neurologist, approved     |
 | Admin   | admin@demo.com      | demo1234  | Full admin access         |
 
----
+---------------------------------------------------------------
+USE DEMO OF DOCTOR:
+Mail: priya@demo.com
+Password: demo1234
+
+USE DEMO OF PATIENT
+Mail: arjun@demo.com
+Password: demo@1234
+------------------------------------------------------------------
 
 ## ✅ Full Feature List
 
